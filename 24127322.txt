@@ -1,0 +1,24 @@
+BẢNG TỰ CHẤM ĐIỂM ĐỒ ÁN JAVA – SLANG DICTIONARY
+
+Họ và tên: Phan Nhật Anh
+MSSV: 24127322
+
+1. Tìm kiếm theo slang word: 10/10
+2. Tìm kiếm theo nội dung định nghĩa: 10/10
+3. Hiển thị và lưu lịch sử tìm kiếm sau khi đóng ứng dụng: 10/10
+4. Thêm slang word, hỗ trợ ghi đè hoặc bổ sung nghĩa khi trùng: 10/10
+5. Chỉnh sửa nghĩa của slang word: 10/10
+6. Xóa slang word có xác nhận: 10/10
+7. Khôi phục từ điển gốc: 10/10
+8. Hiển thị slang word ngẫu nhiên: 10/10
+9. Đố chọn định nghĩa đúng từ slang word: 10/10
+10. Đố chọn slang word đúng từ định nghĩa: 10/10
+11. Lưu cấu trúc dữ liệu để nạp lại khi mở ứng dụng: 10/10
+12. Lưu thay đổi từ điển sau khi thêm, sửa hoặc xóa: 10/10
+13. Giao diện Java Swing: 10/10
+
+Điểm tự đánh giá chung: 100/100
+
+Link mã nguồn GitHub: [Dán link GitHub tại đây]
+Link video demo: [Dán link video demo tại đây]
+Link tải file JAR: [Dán link file JAR tại đây]
