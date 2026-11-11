@@ -13,9 +13,7 @@ MSSV: 24127322
 8. Hiển thị slang word ngẫu nhiên: 10/10
 9. Đố chọn định nghĩa đúng từ slang word: 10/10
 10. Đố chọn slang word đúng từ định nghĩa: 10/10
-11. Lưu cấu trúc dữ liệu để nạp lại khi mở ứng dụng: 10/10
-12. Lưu thay đổi từ điển sau khi thêm, sửa hoặc xóa: 10/10
-13. Giao diện Java Swing: 10/10
+
 
 Điểm tự đánh giá chung: 100/100
 
