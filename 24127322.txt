@@ -19,6 +19,12 @@ MSSV: 24127322
 
 Điểm tự đánh giá chung: 100/100
 
-Link mã nguồn GitHub: [Dán link GitHub tại đây]
-Link video demo: [Dán link video demo tại đây]
-Link tải file JAR: [Dán link file JAR tại đây]
+Link mã nguồn GitHub: https://github.com/Panda2710/JavaSlangApp
+Link video demo: https://youtu.be/KtNrDmg4Lh8
+
+
+
+Cách chạy:
+
+cd source 
+java -jar ..\JavaSlangApp.jar
